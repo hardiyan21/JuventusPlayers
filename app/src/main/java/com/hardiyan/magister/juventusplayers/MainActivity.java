@@ -5,6 +5,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.view.Menu;
 
 import com.hardiyan.magister.juventusplayers.adapter.ListPlayerAdapter;
 import com.hardiyan.magister.juventusplayers.model.Player;
@@ -27,6 +28,12 @@ public class MainActivity extends AppCompatActivity {
 
         list.addAll(PlayersData.getListData());
         showRecyclerList();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.about, menu);
+        return super.onCreateOptionsMenu(menu);
     }
 
     private void showRecyclerList(){

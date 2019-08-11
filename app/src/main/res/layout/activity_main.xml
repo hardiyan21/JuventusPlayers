@@ -11,5 +11,4 @@
         android:layout_height="wrap_content"
         android:id="@+id/rv_juve"
         tools:listitem="@layout/item_row_juve"/>
-
 </RelativeLayout>
