@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Juventus Players</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="position">Posisi</string>
+</resources>
