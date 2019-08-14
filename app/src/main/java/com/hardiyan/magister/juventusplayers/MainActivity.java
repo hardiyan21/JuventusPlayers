@@ -4,8 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
+import android.view.MenuItem;
 
 import com.hardiyan.magister.juventusplayers.adapter.ListPlayerAdapter;
 import com.hardiyan.magister.juventusplayers.model.Player;
@@ -13,7 +15,7 @@ import com.hardiyan.magister.juventusplayers.model.PlayersData;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity{
     private RecyclerView rvPlayers;
     private ArrayList<Player> list = new ArrayList<>();
 
@@ -36,9 +38,23 @@ public class MainActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+
+        if (id == R.id.tombol_profile) {
+            Intent intent = new Intent(MainActivity.this, ProfileActivity.class);
+            startActivity(intent);
+            return true;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+
     private void showRecyclerList(){
         rvPlayers.setLayoutManager(new LinearLayoutManager(this));
         ListPlayerAdapter listPlayerAdapter = new ListPlayerAdapter(list);
         rvPlayers.setAdapter(listPlayerAdapter);
     }
+
 }
