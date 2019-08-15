@@ -12,7 +12,7 @@
         android:layout_centerVertical="false"
         android:layout_marginTop="100dp"
         android:layout_marginBottom="20dp"
-        android:src="@drawable/tes" />
+        android:src="@drawable/about_profile" />
 
     <TextView
         android:id="@+id/tvName"

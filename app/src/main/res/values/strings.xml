@@ -4,8 +4,8 @@
     <string name="position">Posisi</string>
     <string name="about">about</string>
     <string name="title_activity_profile">ProfileActivity</string>
-    <string name="about_name">Blabla</string>
-    <string name="about_email">blabla@gmail.com</string>
+    <string name="about_name">Hardiyan K. Ramadhan</string>
+    <string name="about_email">hardiyankesumar@outlook.com</string>
     <string name="paulo_dybala">Paulo Dybala</string>
     <string name="adrien_rabiot">Adrien Rabiot</string>
     <string name="leonardo_bonucci">Leonardo Bonucci</string>
@@ -13,8 +13,72 @@
     <string name="alex_sandro">Alex Sandro</string>
     <string name="c_ronaldo">Christiano Ronaldo</string>
     <string name="g_buffon">Gianluigi Buffon</string>
-    <string name="m_delight">Matthijs De Light</string>
+    <string name="m_delight">Matthijs De Ligt</string>
     <string name="juan_cuadrado">Juan Cuadrado</string>
     <string name="f_bernardeschi">Federico Bernardeschi</string>
     <string name="l_pellegrini">Luca Pellegrini</string>
+    <string name="gk">Goalkeeper</string>
+    <string name="cb">Defender</string>
+    <string name="cmf">Midfielder</string>
+    <string name="cf">Forward</string>
+
+    <string name="born_dybala">November 15, 1993</string>
+    <string name="height_dybala">1.77 m</string>
+    <string name="weight_dybala">75 kg</string>
+    <string name="nat_dybala">Argentine</string>
+
+    <string name="born_delight">August 12, 1999</string>
+    <string name="height_delight">1.89 m</string>
+    <string name="weight_delight">89 kg</string>
+    <string name="nat_delight">Dutch</string>
+
+    <string name="born_pellegrini">March 7, 1999</string>
+    <string name="height_pellegrini">1.78 m</string>
+    <string name="weight_pellegrini">72 kg</string>
+    <string name="nat_pellegrini">Italian</string>
+
+    <string name="born_bonucci">May 1, 1987</string>
+    <string name="height_bonucci">1.9 m</string>
+    <string name="weight_bonucci">86 kg</string>
+    <string name="nat_bonucci">Italian</string>
+
+    <string name="born_cuad">May 26, 1988</string>
+    <string name="height_cuad">1.79 m</string>
+    <string name="weight_cuad">72 kg</string>
+    <string name="nat_cuad">Colombian</string>
+
+    <string name="born_gigi">January 28, 1978</string>
+    <string name="height_gigi">1.92 m</string>
+    <string name="weight_gigi">92 kg</string>
+    <string name="nat_gigi">Italian</string>
+
+    <string name="born_bernard">February 16, 1994</string>
+    <string name="height_bernard">1.85 m</string>
+    <string name="weight_bernard">77 kg</string>
+    <string name="nat_bernard">Italian</string>
+
+    <string name="born_ronal">February 5, 1985</string>
+    <string name="height_ronal">1.87 m</string>
+    <string name="weight_ronal">84 kg</string>
+    <string name="nat_ronal">Portuguese</string>
+
+    <string name="born_alex">January 26, 1991</string>
+    <string name="height_alex">1.8 m</string>
+    <string name="weight_alex">80 kg</string>
+    <string name="nat_alex">Brazilian</string>
+
+    <string name="born_rab">April 3, 1995</string>
+    <string name="height_rab">1.88 m</string>
+    <string name="weight_rab">71 kg</string>
+    <string name="nat_rab">French</string>
+
+    <string name="born_ram">December 26, 1990</string>
+    <string name="height_ram">1.78 m</string>
+    <string name="weight_ram">76 kg</string>
+    <string name="nat_ram">British</string>
+
+    <string name="born">Born:</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="nat">Nationality:</string>
 </resources>

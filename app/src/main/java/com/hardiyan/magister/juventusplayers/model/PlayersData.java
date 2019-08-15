@@ -12,7 +12,7 @@ public class PlayersData {
             {"Cristiano Ronaldo", "Forward", "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/05/21/3174890232.jpg"},
             {"Alex Sandro", "Defender", "https://cdn.images.express.co.uk/img/dynamic/67/590x/Alex-Sandro-844982.jpg"},
             {"Matthijs de Ligt", "Defender", "https://e1.365dm.com/18/01/768x432/ajax-matthijs-de-ligt-lyon_4208224.jpg?20180118090834"},
-            {"Federico Bernardeschi", "Midfielder", "https://www.thesportsman.com/media/images/admin/football/PA-31839071.webp"},
+            {"Federico Bernardeschi", "Midfielder", "https://tmssl.akamaized.net//images/foto/normal/federico-bernardeschi-juventus-1528448417-15883.jpg"},
             {"Juan Cuadrado", "Midfielder", "https://cdn.images.express.co.uk/img/dynamic/67/590x/Arsenal-news-Juan-Cuadrado-857344.jpg"},
             {"Gianluigi Buffon", "Goalkeeper", "https://cdn.images.express.co.uk/img/dynamic/143/590x/Gianluigi-Buffon-World-of-Tanks-954832.jpg"},
     };

@@ -6,6 +6,6 @@
         android:id="@+id/tombol_profile"
         android:orderInCategory="100"
         app:showAsAction="always"
-        android:icon="@drawable/about"
+        android:icon="@drawable/ic_person_white_24dp"
         android:title="@string/about"/>
 </menu>
