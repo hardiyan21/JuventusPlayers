@@ -4,4 +4,17 @@
     <string name="position">Posisi</string>
     <string name="about">about</string>
     <string name="title_activity_profile">ProfileActivity</string>
+    <string name="about_name">Blabla</string>
+    <string name="about_email">blabla@gmail.com</string>
+    <string name="paulo_dybala">Paulo Dybala</string>
+    <string name="adrien_rabiot">Adrien Rabiot</string>
+    <string name="leonardo_bonucci">Leonardo Bonucci</string>
+    <string name="aaron_ramsey">Aaron Ramsey</string>
+    <string name="alex_sandro">Alex Sandro</string>
+    <string name="c_ronaldo">Christiano Ronaldo</string>
+    <string name="g_buffon">Gianluigi Buffon</string>
+    <string name="m_delight">Matthijs De Light</string>
+    <string name="juan_cuadrado">Juan Cuadrado</string>
+    <string name="f_bernardeschi">Federico Bernardeschi</string>
+    <string name="l_pellegrini">Luca Pellegrini</string>
 </resources>

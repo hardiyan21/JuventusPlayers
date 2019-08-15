@@ -21,9 +21,10 @@
         android:layout_below="@id/imageView"
         android:layout_centerHorizontal="true"
         android:gravity="center"
-        android:text="Blabla"
+        android:text="@string/about_name"
         android:textSize="22sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:textColor="@color/colorText"/>
 
     <TextView
         android:id="@+id/tvDescription"
@@ -32,7 +33,8 @@
         android:layout_below="@+id/tvName"
         android:layout_centerHorizontal="true"
         android:gravity="center"
-        android:text="blabla@gmail.com"
+        android:text="@string/about_email"
         android:textSize="18sp"
-        android:textStyle="italic" />
+        android:textStyle="italic"
+        android:textColor="@color/colorText"/>
 </RelativeLayout>
